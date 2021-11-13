@@ -55,4 +55,5 @@ for repo in l:
     print(f"num_of_issues (including_img) = {x2:3}({round(100*x2/(len(l)-1), 2)}%)")
     print(f"num_of_issues (including_mov) = {y2:3}({round(100*y2/(len(l)-1), 2)}%)")
 
+    
 print("\n\n\033[32m...........all tasks done!!...........\033[0m\n")
