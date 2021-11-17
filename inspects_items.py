@@ -5,7 +5,7 @@ from tqdm import tqdm
 import time
 
 print("\n\033[32m...........program booting...........\033[0m\n")
-
+# いやああ、はやく情報収集終われ
 def myget_name_left(text, target):
     # ${target}より前を抽出したい
     idx = text.find(target)
